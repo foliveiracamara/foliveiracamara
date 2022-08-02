@@ -1,6 +1,6 @@
 
 <h2>i'm Felipe and i'm doing a software engineering intership at Red Ventures</h2>
-<h3>👨‍💻 i’m currently learning some Front-end stuff</h3>
+<h3></h3>
 </h1><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=foliveiracamara&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
