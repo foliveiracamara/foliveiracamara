@@ -3,6 +3,9 @@
 <h3>👨‍💻 i’m currently learning some Front-end stuff</h3>
 </h1><br>
 
+![](https://github-readme-stats.vercel.app/api?username=foliveiracamara&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=foliveiracamara&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=foliveiracamara&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -13,7 +16,5 @@
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  -->
 <br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=foliveiracamara&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=foliveiracamara&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=foliveiracamara&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
