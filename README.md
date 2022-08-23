@@ -1,5 +1,5 @@
 
-<h2>i'm Felipe and i'm doing a software engineer intership at Red Ventures</h2>
+<h2>i'm Felipe and i'm doing a software engineer internship at Red Ventures</h2>
 <h3></h3>
 </h1><br>
 
