@@ -1,4 +1,4 @@
-## Hi, Im Felipe!!  
+## Hi, Im Felipe!!  🏌🏼‍♂️
 <p>
    I'm currently working at <a href="https://redventures.com.br">Red Ventures</a> as Assistant Software Engineer. <br>
    And i'm studying Analysis and Systems Development at São Paulo Tech School.
