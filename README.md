@@ -1,6 +1,6 @@
 ## Hi, Im Felipe!!  
 <p>
-   I'm currently working at <a href="https://redventures.com.br">Red Ventures</a> as Software Engineer Intern
+   I'm currently working at <a href="https://redventures.com.br">Red Ventures</a> as Assistan Software Engineer
 </p>
 <p>
    <a href="https://www.linkedin.com/in/felipecamara22558b169/">
