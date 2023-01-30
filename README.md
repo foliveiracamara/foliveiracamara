@@ -1,6 +1,6 @@
 ## Hi, Im Felipe!!  🏌🏼‍♂️
 <p>
-   I'm currently working at <a href="https://www.redventures.com">Red Ventures</a> as Web Programmer Assistant in the Data team. <br>
+   I'm currently working at <a href="https://www.redventures.com">Red Ventures</a> as a Web Programmer Assistant in the Data team. <br>
    And i'm studying Analysis and Systems Development at São Paulo Tech School.
 </p>
 <p>
