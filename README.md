@@ -1,8 +1,8 @@
-## Hi, Im Felipe!!  🏌🏼‍♂️
-<b><p>
+<h1>Hi, i'm Felipe!!  🏌🏼‍♂️</h1>
+<h3>
    I'm currently working at <a href="https://www.redventures.com">Red Ventures</a> as a Web Programmer Assistant in the Data team.<br>
    And i'm studying Analysis and Systems Development at São Paulo Tech School.
-</p></b>
+</h3>
 <p>
    <a href="https://www.linkedin.com/in/felipecamara22558b169/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
