@@ -1,12 +1,13 @@
 <h1>Hi, i'm Felipe!!  🏌🏼‍♂️</h1>
 <h3>
-   I'm currently working at <a href="https://www.redventures.com.br">Red Ventures</a> as a Web Programmer Assistant in the Data team.<br>
+   I'm currently working at <a href="https://www.redventures.com.br">Red Ventures</a> as a Web Programmer Assistant in the Data team.
 </h3>
 <p>
    <a href="https://www.linkedin.com/in/felipecamara22558b169/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
    </a>
 </p>
+<br>
 
 ## Stats 
 
