@@ -1,6 +1,6 @@
 <h1>Hi, i'm Felipe!!  🏌🏼‍♂️</h1>
 <h3>
-   I'm currently working at <a href="https://www.redventures.com.br">Red Ventures</a> as a Web Programmer Assistant in the Data team.
+   I'm currently working at <a href="https://www.redventures.com.br">Red Ventures</a> as a Web Programmer in the Data team.
 </h3>
 <p>
    <a href="https://www.linkedin.com/in/fecamara/">
