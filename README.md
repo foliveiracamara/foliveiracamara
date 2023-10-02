@@ -9,11 +9,11 @@
 </p>
 <br>
 
-## Stats 
+<!-- ## Stats -->
 
-<p>
+<!-- <p>
   <img  src="https://awesome-github-stats.azurewebsites.net/user-stats/foliveiracamara?cardType=octocat&theme=buefy&Background=000000&Text=DDAFFF&Ring=FFE5E5&Title=FFE5E5&Border=FF30B21F" />
-</p>
+</p> -->
 
 ## Current focus
 <p>
